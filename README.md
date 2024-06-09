@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivy Gesare</h1>
 <h3 align="center">A Passionate Frontend Developer from Kenya</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
+
 
 - 🌱 I’m currently learning **Python-Django** 
 
