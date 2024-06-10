@@ -4,13 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
 
 
-- 🌱 I’m currently learning **Python-Django** 
+- 🌱 I’m currently learning **Python-Django**
+- 
+- - 🔭 I’m currently working on **Open Source Contributions**
+  
+- 👯 I’m looking to collaborate on **any fun and interesting projects**
 
 - 💬 Ask me about **JavaScript/Python**
 
 - 📫 How to reach me **gesare.nyangweso@gmail.com**
 
-- ⚡ Fun fact **I Love to Swim**
+- ⚡ Fun fact **I Swim Weekly and I'm engrossed by Japanese Math/Number puzzles i.e Kakuro, Sudoku, Hanjie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
