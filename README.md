@@ -1,4 +1,5 @@
-[![MasterHead](/lady.png)](https://portfolio-gesare5.vercel.app)
+<!-- [![MasterHead](/lady.png)]() -->
+<img src="/lady.png" alt="" />
 <h1 align="center">Hi 👋, I'm Ivy Gesare</h1>
 <h3 align="center">A Fullstack Developer from Kenya</h3>
 
