@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **JavaScript/Python**
 
-- 📫 How to reach me **gesare.nyangweso@gmail.com**
-
 - ⚡ Fun fact **I Swim Weekly and I'm engrossed by Japanese Math/Number puzzles i.e Kakuro, Sudoku, Hanjie**
 
 <h3 align="left">Connect with me:</h3>
