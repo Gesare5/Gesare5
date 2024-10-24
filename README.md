@@ -1,7 +1,7 @@
 <!-- [![MasterHead](/lady.png)]() -->
 <img src="/lady.png" alt="" />
 <h1 align="center">Hi 👋, I'm Ivy Gesare</h1>
-<h3 align="center">A Fullstack Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
 
