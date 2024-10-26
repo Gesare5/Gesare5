@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
 
 
-- 🌱 I’m currently learning **Python-Django/Java**
+- 🌱 I’m currently learning **Python-Django/GO**
   
 - 🔭 I’m currently working on **Open Source Contributions**
   
