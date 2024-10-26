@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript/Python**
 
-- ⚡ Fun fact **I Swim and I'm engrossed by Japanese Math/Number puzzles i.e Kakuro, Sudoku, Hanjie**
+- ⚡ Fun fact **I Swim and I'm engrossed by Number Puzzles like Kakuro, Sudoku & Hanjie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
