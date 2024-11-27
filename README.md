@@ -9,10 +9,6 @@
 - 🌱 I’m currently learning **Python-Django/GO**
   
 - 🔭 I’m currently working on **Open Source Contributions**
-  
-- 👯 I’m looking to collaborate on **any fun and interesting projects**
-
-- 💬 Ask me about **JavaScript/Python**
 
 - ⚡ Fun fact **I am an avid Swimmer and I'm engrossed by Number Puzzles like Kakuro, Sudoku & Hanjie**
 
