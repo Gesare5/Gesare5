@@ -1,7 +1,7 @@
 <!-- [![MasterHead](/lady.png)]() -->
 <img src="/lady.png" alt="" />
 <h1 align="center">Hi 👋, I'm Ivy Gesare</h1>
-<h3 align="center">A Software Developer</h3>
+<!-- <h3 align="center">A Software Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
 
@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **Open Source Contributions**
 
-- ⚡ Fun fact **I am an avid Swimmer and I'm engrossed by Number Puzzles like Kakuro, Sudoku & Hanjie**
+<!-- - ⚡ Fun fact **I am an avid Swimmer and I'm engrossed by Number Puzzles like Kakuro, Sudoku & Hanjie** -->
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
