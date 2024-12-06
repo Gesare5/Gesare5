@@ -12,8 +12,9 @@
   
 - 📽️ Wanna see my Contributions? [My Contributions](https://github.com/mattermost/mattermost/issues?q=is%3Aissue+assignee%3AGesare5+is%3Aclosed)
 
-- ⚡ Fun fact **I am an avid Swimmer** 
-
+- ⚡ Fun fact:  **I am an avid Swimmer**
+  
+<br/>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ivychepkoechgesare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
