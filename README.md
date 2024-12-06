@@ -3,14 +3,16 @@
 <h1 align="center">Hi 👋, I'm Ivy Gesare</h1>
 <!-- <h3 align="center">A Software Developer</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
 
 
-- 🌱 I’m currently learning **Python-Django/GO**
+- 🌱 I’m currently learning **Embedded Systems and Embedded Linux Development, Cloud Computing** and **Mathematical Modelling**
   
 - 🔭 I’m currently working on **Open Source Contributions**
+  
+- 📽️ Wanna see my Contributions? [My Contributions](https://github.com/mattermost/mattermost/issues?q=is%3Aissue+assignee%3AGesare5+is%3Aclosed)
 
-<!-- - ⚡ Fun fact **I am an avid Swimmer and I'm engrossed by Number Puzzles like Kakuro, Sudoku & Hanjie** -->
+- ⚡ Fun fact **I am an avid Swimmer** 
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
