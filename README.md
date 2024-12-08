@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
 
 
-- 🌱 I’m currently learning **Embedded Systems and Embedded Linux Development, Cloud Computing** and **Mathematical Modelling**
+- 🌱 I’m currently learning **how to build independent systems from the ground up**
   
 - 🔭 I’m currently working on **Open Source Contributions**
   
