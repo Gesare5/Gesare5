@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ivy Gesare</h1>
 <!-- <h3 align="center">A Software Developer</h3> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gesare5" alt="gesare" /> </p> -->
 
 
 - 🌱 I’m currently learning **how to build independent systems from the ground up**
